@@ -1,0 +1,33 @@
+{
+  "name": "hubot-intelmap-jp",
+  "description": "A Hubot script for searching intelmap",
+  "version": "0.0.2",
+  "author": "c2nprds",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "maps",
+    "intelmap",
+    "ingress"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/c2nprds/hubot-intelmap-jp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/c2nprds/hubot-intelmap-jp/issues"
+  },
+
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {},
+
+  "peerDependencies": {
+    "hubot": "2.x"
+  }
+}
